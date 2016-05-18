@@ -1,4 +1,6 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: nadya
+  image: nadya.jpg
+- name: vallentino
+  image: vallentino.jpg
+- name: elyas
+  image: elyas.jpg
